@@ -1,3 +1,3 @@
 # Hello 👋
 
-I am student from Brazil.
+I am a student from Brazil.
